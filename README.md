@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohamed Sihan
 - 👀 I’m passionate about Fullstack web development
-- 🌱 I’m currently sharpening my skills in React
 - 💞️ I’m open to collaborating on exciting web development projects, especially those involving JavaScript, React, Node.js, and MongoDB
 - 📫 You can reach me via LinkedIn(linkedin.com/in/mohamed-sihan-dev)
 - 😄 Pronouns: He/Him
